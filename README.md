@@ -15,4 +15,4 @@ my project while i wait for new partner
 ### LIVE SCREENSHOT OF MY PROJECT
 
 ![Untitled](![1](https://user-images.githubusercontent.com/53564831/68049344-e1cfc380-fc9f-11e9-969d-dde7ebfd698a.jpg)
-)
+
