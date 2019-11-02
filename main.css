@@ -131,17 +131,17 @@ a {
   height: 3rem;
   text-align: center;
   border: dotted 1px;
-  background: rgb(236,238,241);
+  background: rgb(236, 238, 241);
   font-size: 13px;
 }
 
 .heading-form2 {
   height: 3rem;
   text-align: center;
-  border:1px; 
-  background:white;
+  border: 1px;
+  background: white;
   font-size: 13px;
-    }
+}
 
 .footer {
   width: 100%;
